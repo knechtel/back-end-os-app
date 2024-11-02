@@ -1,2 +1,3 @@
 # dular-backend
-# back-end-os-app
+
+Repositório backend do aplicativo de controle de Ordem de Serviço.
